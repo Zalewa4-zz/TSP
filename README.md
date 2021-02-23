@@ -1,2 +1,2 @@
 # TSP
-Travelling salesman problem, TSP. I made GUI of this app.
+Travelling salesman problem using AForge, TSP. I made GUI of this app.
