@@ -1,0 +1,59 @@
+C:\Users\zalew\Dysk Google\Notatki PWSZ\III ROK\V SEMESTR\Sztuczna inteligencja (L i W)\Projekt\TSP\bin\Debug\TSP.exe
+C:\Users\zalew\Dysk Google\Notatki PWSZ\III ROK\V SEMESTR\Sztuczna inteligencja (L i W)\Projekt\TSP\bin\Debug\TSP.pdb
+C:\Users\zalew\Dysk Google\Notatki PWSZ\III ROK\V SEMESTR\Sztuczna inteligencja (L i W)\Projekt\TSP\bin\Debug\AForge.Controls.dll
+C:\Users\zalew\Dysk Google\Notatki PWSZ\III ROK\V SEMESTR\Sztuczna inteligencja (L i W)\Projekt\TSP\bin\Debug\AForge.dll
+C:\Users\zalew\Dysk Google\Notatki PWSZ\III ROK\V SEMESTR\Sztuczna inteligencja (L i W)\Projekt\TSP\bin\Debug\AForge.Genetic.dll
+C:\Users\zalew\Dysk Google\Notatki PWSZ\III ROK\V SEMESTR\Sztuczna inteligencja (L i W)\Projekt\TSP\bin\Debug\AForge.Video.dll
+C:\Users\zalew\Dysk Google\Notatki PWSZ\III ROK\V SEMESTR\Sztuczna inteligencja (L i W)\Projekt\TSP\bin\Debug\AForge.Imaging.dll
+C:\Users\zalew\Dysk Google\Notatki PWSZ\III ROK\V SEMESTR\Sztuczna inteligencja (L i W)\Projekt\TSP\bin\Debug\AForge.Math.dll
+C:\Users\zalew\Dysk Google\Notatki PWSZ\III ROK\V SEMESTR\Sztuczna inteligencja (L i W)\Projekt\TSP\bin\Debug\AForge.xml
+C:\Users\zalew\Dysk Google\Notatki PWSZ\III ROK\V SEMESTR\Sztuczna inteligencja (L i W)\Projekt\TSP\bin\Debug\AForge.Controls.xml
+C:\Users\zalew\Dysk Google\Notatki PWSZ\III ROK\V SEMESTR\Sztuczna inteligencja (L i W)\Projekt\TSP\bin\Debug\AForge.Genetic.xml
+C:\Users\zalew\Dysk Google\Notatki PWSZ\III ROK\V SEMESTR\Sztuczna inteligencja (L i W)\Projekt\TSP\bin\Debug\AForge.Video.xml
+C:\Users\zalew\Dysk Google\Notatki PWSZ\III ROK\V SEMESTR\Sztuczna inteligencja (L i W)\Projekt\TSP\bin\Debug\AForge.Imaging.xml
+C:\Users\zalew\Dysk Google\Notatki PWSZ\III ROK\V SEMESTR\Sztuczna inteligencja (L i W)\Projekt\TSP\bin\Debug\AForge.Math.xml
+C:\Users\zalew\Dysk Google\Notatki PWSZ\III ROK\V SEMESTR\Sztuczna inteligencja (L i W)\Projekt\TSP\obj\Debug\TSP.csprojAssemblyReference.cache
+C:\Users\zalew\Dysk Google\Notatki PWSZ\III ROK\V SEMESTR\Sztuczna inteligencja (L i W)\Projekt\TSP\obj\Debug\TSP.MainForm.resources
+C:\Users\zalew\Dysk Google\Notatki PWSZ\III ROK\V SEMESTR\Sztuczna inteligencja (L i W)\Projekt\TSP\obj\Debug\TSP.csproj.GenerateResource.cache
+C:\Users\zalew\Dysk Google\Notatki PWSZ\III ROK\V SEMESTR\Sztuczna inteligencja (L i W)\Projekt\TSP\obj\Debug\TSP.csproj.CoreCompileInputs.cache
+C:\Users\zalew\Dysk Google\Notatki PWSZ\III ROK\V SEMESTR\Sztuczna inteligencja (L i W)\Projekt\TSP\obj\Debug\TSP.csproj.CopyComplete
+C:\Users\zalew\Dysk Google\Notatki PWSZ\III ROK\V SEMESTR\Sztuczna inteligencja (L i W)\Projekt\TSP\obj\Debug\TSP.exe
+C:\Users\zalew\Dysk Google\Notatki PWSZ\III ROK\V SEMESTR\Sztuczna inteligencja (L i W)\Projekt\TSP\obj\Debug\TSP.pdb
+C:\Users\admin\Downloads\TSP\TSP\bin\Debug\TSP.exe
+C:\Users\admin\Downloads\TSP\TSP\bin\Debug\TSP.pdb
+C:\Users\admin\Downloads\TSP\TSP\bin\Debug\AForge.Controls.dll
+C:\Users\admin\Downloads\TSP\TSP\bin\Debug\AForge.dll
+C:\Users\admin\Downloads\TSP\TSP\bin\Debug\AForge.Genetic.dll
+C:\Users\admin\Downloads\TSP\TSP\bin\Debug\AForge.Video.dll
+C:\Users\admin\Downloads\TSP\TSP\bin\Debug\AForge.Imaging.dll
+C:\Users\admin\Downloads\TSP\TSP\bin\Debug\AForge.Math.dll
+C:\Users\admin\Downloads\TSP\TSP\bin\Debug\AForge.xml
+C:\Users\admin\Downloads\TSP\TSP\bin\Debug\AForge.Controls.xml
+C:\Users\admin\Downloads\TSP\TSP\bin\Debug\AForge.Genetic.xml
+C:\Users\admin\Downloads\TSP\TSP\bin\Debug\AForge.Video.xml
+C:\Users\admin\Downloads\TSP\TSP\bin\Debug\AForge.Imaging.xml
+C:\Users\admin\Downloads\TSP\TSP\bin\Debug\AForge.Math.xml
+C:\Users\admin\Downloads\TSP\TSP\obj\Debug\TSP.csprojResolveAssemblyReference.cache
+C:\Users\admin\Downloads\TSP\TSP\obj\Debug\TSP.MainForm.resources
+C:\Users\admin\Downloads\TSP\TSP\obj\Debug\TSP.csproj.GenerateResource.Cache
+C:\Users\admin\Downloads\TSP\TSP\obj\Debug\TSP.exe
+C:\Users\admin\Downloads\TSP\TSP\obj\Debug\TSP.pdb
+C:\Users\admin\Downloads\Adrian_Zalewski_10041\Zalewa AForge\Zalewa AForge\obj\Debug\TSP.exe
+C:\Users\admin\Downloads\Adrian_Zalewski_10041\Zalewa AForge\Zalewa AForge\obj\Debug\TSP.pdb
+C:\Users\admin\Downloads\Adrian_Zalewski_10041\Zalewa AForge\Zalewa AForge\bin\Debug\TSP.exe
+C:\Users\admin\Downloads\Adrian_Zalewski_10041\Zalewa AForge\Zalewa AForge\bin\Debug\TSP.pdb
+C:\Users\admin\Downloads\Adrian_Zalewski_10041\Zalewa AForge\Zalewa AForge\bin\Debug\AForge.Controls.dll
+C:\Users\admin\Downloads\Adrian_Zalewski_10041\Zalewa AForge\Zalewa AForge\bin\Debug\AForge.dll
+C:\Users\admin\Downloads\Adrian_Zalewski_10041\Zalewa AForge\Zalewa AForge\bin\Debug\AForge.Genetic.dll
+C:\Users\admin\Downloads\Adrian_Zalewski_10041\Zalewa AForge\Zalewa AForge\bin\Debug\AForge.Video.dll
+C:\Users\admin\Downloads\Adrian_Zalewski_10041\Zalewa AForge\Zalewa AForge\bin\Debug\AForge.Imaging.dll
+C:\Users\admin\Downloads\Adrian_Zalewski_10041\Zalewa AForge\Zalewa AForge\bin\Debug\AForge.Math.dll
+C:\Users\admin\Downloads\Adrian_Zalewski_10041\Zalewa AForge\Zalewa AForge\bin\Debug\AForge.xml
+C:\Users\admin\Downloads\Adrian_Zalewski_10041\Zalewa AForge\Zalewa AForge\bin\Debug\AForge.Controls.xml
+C:\Users\admin\Downloads\Adrian_Zalewski_10041\Zalewa AForge\Zalewa AForge\bin\Debug\AForge.Genetic.xml
+C:\Users\admin\Downloads\Adrian_Zalewski_10041\Zalewa AForge\Zalewa AForge\bin\Debug\AForge.Video.xml
+C:\Users\admin\Downloads\Adrian_Zalewski_10041\Zalewa AForge\Zalewa AForge\bin\Debug\AForge.Imaging.xml
+C:\Users\admin\Downloads\Adrian_Zalewski_10041\Zalewa AForge\Zalewa AForge\bin\Debug\AForge.Math.xml
+C:\Users\admin\Downloads\Adrian_Zalewski_10041\Zalewa AForge\Zalewa AForge\obj\Debug\TSP.csprojResolveAssemblyReference.cache
+C:\Users\admin\Downloads\Adrian_Zalewski_10041\Zalewa AForge\Zalewa AForge\obj\Debug\TSP.MainForm.resources
+C:\Users\admin\Downloads\Adrian_Zalewski_10041\Zalewa AForge\Zalewa AForge\obj\Debug\TSP.csproj.GenerateResource.Cache
